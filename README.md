@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Marco Antonio Eleno Tovar</h1>
+<h1 align="center">👋 ¡Hola! Soy Marco Eleno </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+PHP+Full+Stack;Optimizaci%C3%B3n+y+Mantenimiento" alt="Typing SVG" />
@@ -43,24 +43,15 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=M4RCOE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <br>
-  <h3>🔤 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOE&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</div>
+### GitHub Stats
 
-## 🐍 Contribuciones
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4RCOE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
-<div align="center">
-  <h3>github-snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
-  </picture>
-</div>
+### Top Languages
 
-## 📁 Estructura del Proyecto
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOE&layout=compact&hide_border=true&theme=tokyonight)
+
+### Contribuciones
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=M4RCOE&theme=tokyonight&hide_border=true)
+
