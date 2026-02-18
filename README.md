@@ -55,3 +55,13 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=M4RCOE&theme=tokyonight&hide_border=true)
 
+
+## 🐍 github-snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
+  </picture>
+</div>
