@@ -1,7 +1,7 @@
-<h1 align="center">👋 ¡Hola! Soy Marco Antonio Eleno Tovar</h1>
+<h1 align="center">👋 ¡Hola! Soy Marco Eleno</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+PHP;Optimizaci%C3%B3n+y+Mantenimiento" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+PHP+Full+Stack;Optimizaci%C3%B3n+y+Mantenimiento" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 
 - 🔭 Actualmente trabajo en **desarrollo y mantenimiento de sistemas web**
 - 🌱 Aprendiendo constantemente **nuevas tecnologías y mejores prácticas**
-- 💬 Pregúntame sobre **PHP, CodeIgniter, MySQL, y optimización de sistemas**
+- 💬 Pregúntame sobre **PHP, CodeIgniter, Slim, Laravel, Vue, SQL Server, MySQL, Java, C# y optimización de sistemas**
 - ⚡ Dato curioso: **Me encanta resolver problemas complejos con código limpio**
 
 ## 🛠️ Stack Tecnológico
@@ -22,17 +22,19 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 <div align="left">
   <h3>Lenguajes y Frameworks</h3>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Slim-74C7B8?style=for-the-badge&logo=slim&logoColor=white" alt="Slim PHP"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-  
-  <h3>Bases de Datos</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
 
 ## 📊 Estadísticas de GitHub
