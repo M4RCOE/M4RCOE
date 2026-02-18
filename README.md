@@ -101,7 +101,7 @@ class MarcoEleno extends Developer {
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=M4RCOE&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=M4RCOE&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4&margin-h=4" />
 </div>
 
 ---
@@ -109,10 +109,12 @@ class MarcoEleno extends Developer {
 ## 🐍 Actividad de Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" width="80%" />
+  </picture>
 </div>
-
-> ⚙️ **Para activar el snake:** crea el archivo `.github/workflows/snake.yml` en tu repo con el action de [Platane/snk](https://github.com/Platane/snk). Se generará automáticamente en la rama `output`.
 
 ---
 
