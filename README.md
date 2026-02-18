@@ -128,32 +128,22 @@ class MarcoEleno extends Developer {
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3>🏅 Achievements</h3>
-        <img src="https://img.shields.io/badge/🚀-PHP%20Master-777BB4?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/⚡-Full%20Stack%20Developer-6A5ACD?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🎯-Database%20Optimization-4479A1?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/💡-Clean%20Code%20Advocate-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
+      <td width="50%" align="center" valign="top">
+        <h3>🏅 GitHub Achievements</h3>
+        <a href="https://github.com/M4RCOE?tab=achievements">
+          <img src="images/achievements.png" alt="GitHub Achievements" width="100%" />
+        </a>
+        <sub>🔍 Haz clic para ver en GitHub</sub>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3>🏢 Organizations</h3>
-        <a href="https://github.com/tu-organizacion">
-          <img src="https://img.shields.io/badge/🏢-Nombre%20Organización-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/otra-organizacion">
-          <img src="https://img.shields.io/badge/🏢-Otra%20Organización-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/tercera-organizacion">
-          <img src="https://img.shields.io/badge/🏢-Tercera%20Org-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+        <a href="https://github.com/M4RCOE?tab=organizations">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=M4RCOE&show_orgs=true&hide=contribs,prs&theme=tokyonight&bg_color=0d1117" alt="Organizations" width="100%" />
         </a>
       </td>
     </tr>
   </table>
+  
 </div>
 
 ---
