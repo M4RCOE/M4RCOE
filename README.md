@@ -98,31 +98,6 @@ class MarcoEleno extends Developer {
 
 ---
 
-## 🏆 Achievements & Organizations
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🏅 GitHub Achievements</h3>
-        <a href="https://github.com/M4RCOE?tab=achievements">
-          <img src="images/achievements.png" alt="GitHub Achievements" width="100%" />
-        </a>
-        <sub>🔍 Haz clic para ver en GitHub</sub>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🏢 Organizations</h3>
-        <a href="https://github.com/M4RCOE?tab=organizations">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=M4RCOE&show_orgs=true&hide=contribs,prs&theme=tokyonight&bg_color=0d1117" alt="Organizations" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
 ## 🐍 Actividad de Contribuciones
 
 <div align="center">
