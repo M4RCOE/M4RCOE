@@ -98,10 +98,27 @@ class MarcoEleno extends Developer {
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 Logros Destacados
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=M4RCOE&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4&margin-h=4" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀-Desarrollador%20PHP%20Full%20Stack-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡-Optimización%20de%20Sistemas-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯-Arquitectura%20Escalable-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💡-Clean%20Code%20%26%20SOLID-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
