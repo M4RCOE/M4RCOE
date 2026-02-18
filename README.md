@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Marco Eleno </h1>
+<h1 align="center">👋 ¡Hola! Soy Marco Eleno</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+PHP+Full+Stack;Optimizaci%C3%B3n+y+Mantenimiento" alt="Typing SVG" />
@@ -44,24 +44,32 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 ## 📊 Estadísticas de GitHub
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4RCOE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=M4RCOE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
 ### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOE&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=M4RCOE&layout=compact&hide_border=true&theme=tokyonight)
 
 ### Contribuciones
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M4RCOE&theme=tokyonight&hide_border=true)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=M4RCOE&theme=tokyonight&hide_border=true)
+---
 
 
 ## 🐍 github-snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <b>⭐️ De M4RCOE con ❤️</b>
 </div>
