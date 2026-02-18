@@ -30,9 +30,13 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  
+  <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+  
+  <h3>Bases de Datos</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
@@ -40,16 +44,22 @@ Ingeniero en Sistemas apasionado por crear soluciones tecnológicas eficientes y
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=M4RCOE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <h3>Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOE&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🐍 Contribuciones
 
 <div align="center">
+  <h3>github-snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/M4RCOE/M4RCOE/output/github-snake.svg" />
   </picture>
 </div>
+
+## 📁 Estructura del Proyecto
