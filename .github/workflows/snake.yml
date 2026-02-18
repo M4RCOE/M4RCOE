@@ -5,17 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Snake
         uses: Platane/snk@v3
         with:
           github_user_name: M4RCOE
@@ -24,11 +25,12 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy
+
+      - name: Deploy to branch 'output'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "snake updated"
+          force_orphan: true
+          commit_message: "Update snake animation [skip ci]"
