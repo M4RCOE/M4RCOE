@@ -98,31 +98,6 @@ class MarcoEleno extends Developer {
 
 ---
 
-## 🏆 Logros Destacados
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀-Desarrollador%20PHP%20Full%20Stack-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡-Optimización%20de%20Sistemas-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯-Arquitectura%20Escalable-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💡-Clean%20Code%20%26%20SOLID-A78BFA?style=for-the-badge&labelColor=1a1a2e" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🏆 Achievements & Organizations
 
 <div align="center">
